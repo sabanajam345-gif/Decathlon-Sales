@@ -62,7 +62,7 @@ The main objective of this project is to practice **data analysis and visualizat
 
 ## 📷 Dashboard Preview
 
-![Decathlon Sales Dashboard](Dashboard_Preview.png)
+![Decathlon Sales Dashboard](Dashboard.png)
 
 ## 📂 Project Files
 
