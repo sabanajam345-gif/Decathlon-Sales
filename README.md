@@ -1,4 +1,3 @@
-# Decathlon-Sales
 # Decathlon Sales Dashboard 📊
 
 An interactive **Excel Sales Dashboard** created to analyze Decathlon sales performance, product categories, and yearly/monthly trends.
